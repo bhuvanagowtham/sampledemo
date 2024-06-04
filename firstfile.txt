@@ -1,6 +1,5 @@
 
 hello
 good morning
-:x
-
-
+how are you
+i am fine
